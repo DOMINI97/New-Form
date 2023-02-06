@@ -1,0 +1,19 @@
+{
+  "name": "forms",
+  "version": "1.0.0",
+  "description": "Fully working PHP/AJAX contact form script is available in the pro version of the template.\r You can buy it from: https://bootstrapmade.com/selecao-bootstrap-template/",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
